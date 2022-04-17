@@ -22,7 +22,7 @@
 - like war, famine and generic
 - xenobot/nanobot engineered
 - pandemics.
-- 📫 How to reach me geishajunkie@gmail.com...
+- 📫 How to reach me chris_blevins@hotmail.com...
 
 <!---
 geishajunkie/geishajunkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
