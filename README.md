@@ -13,10 +13,13 @@
 - burning LNG generated from a closed
 - loop of sewage waste contained and
 - safely harnessed inside ballistic 
-- and static free plasma gasification
-- waste to energy and noble gas recycling
-- facilities all over the world to
-- help create a climate action
+- and static proof containment
+- facilities which supplied an
+- offset source of burning fuel
+- for plasma gasification waste 
+- to energy and noble gas recycling
+- facilities all over the world.
+- To help create a climate action
 - alternative to waiting on
 - governments to come up with
 - no other alternative except
