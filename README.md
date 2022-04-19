@@ -8,11 +8,13 @@
 - and Quantum Levitation devices to live in
 - a network which protects people from
 - natural disasters and processes clean
-- sources of water from atmospheric
-- water generation and clean burning
-- LNG inside ballistic and static
-- free plasma gasification waste
-- to energy and noble gas recycling
+- sources of water generated from filtered
+- upper atmospheric water and clean
+- burning LNG generated from a closed
+- loop of sewage waste contained and
+- safely harnessed inside ballistic 
+- and static free plasma gasification
+- waste to energy and noble gas recycling
 - facilities all over the world to
 - help create a climate action
 - alternative to waiting on
